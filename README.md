@@ -18,9 +18,6 @@ Our Service does not use "cookies".
 
 We do not employ any third-party companies or individuals.
 
-**Security**
-
-We value your trust in using our Service, and we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 **Links to Other Sites**
 
@@ -36,6 +33,6 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [Your Contact Information].
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [manojjonam4@gmail.com].
 
 This policy is effective as of [Date].
